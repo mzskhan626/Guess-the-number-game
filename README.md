@@ -1,3 +1,3 @@
 # number-guessing-game
 
-## This allow you to guess the number between 0 - 100.
+#### This allow you to guess the number between 0 - 100.
